@@ -40,6 +40,7 @@ The RNN model architecture consists of:
 - Input Layer: Accepts sequences of historical stock prices.
 - Hidden Layer: Contains recurrent units responsible for capturing temporal dependencies.
 - Output Layer: Predicts the future stock price based on the input sequence.
+
 The model utilizes the tanh activation function and Mean Squared Error (MSE) loss during training.
 
 ## Results
